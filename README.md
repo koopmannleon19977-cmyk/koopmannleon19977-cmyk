@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Leon%20Koopmann&fontSize=42&desc=Builder%20%26%20hacker%20%E2%80%94%20AI%20agents%20%C2%B7%20automation%20%C2%B7%20open%20source)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Leon%20Koopmann&fontSize=42&animation=fadeIn&desc=AI%20agents%20%C2%B7%20automation%20%C2%B7%20open%20source)
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&lines=I+break+things+to+understand+them;then+rebuild+them+better.;Always+experimenting.+Always+shipping.">
