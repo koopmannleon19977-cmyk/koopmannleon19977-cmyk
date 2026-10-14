@@ -5,14 +5,14 @@
 </div>
 
 ## 💻 About me
-~~~python
-leon = {
-    "focus":     ["AI agents", "automation", "dev tooling", "open source"],
-    "mode":      "experiment → break → rebuild → ship",
-    "currently": "building with agents & automating the boring stuff",
-    "open_to":   "collabs on AI tooling and OSS experiments",
-}
-~~~
+
+Builder & hacker exploring **AI agents**, **automation** and **open source** — I break things to understand them, then rebuild them better.
+
+- 🔭 **Currently building:** AI-agent experiments & workflow automations
+- 🌱 **Currently exploring:** agent tooling, dev workflows, OSS ecosystems
+- 💬 **Open to:** collabs on AI tooling and open-source experiments
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-2c5364?style=for-the-badge) ![Automation](https://img.shields.io/badge/Automation-2c5364?style=for-the-badge) ![Dev Tooling](https://img.shields.io/badge/Dev_Tooling-2c5364?style=for-the-badge) ![Open Source](https://img.shields.io/badge/Open_Source-2c5364?style=for-the-badge)
 
 ## 🧰 Toolbox & playground
 [![Skills](https://skillicons.dev/icons?i=python,js,git,github,vscode,linux)](https://skillicons.dev)
