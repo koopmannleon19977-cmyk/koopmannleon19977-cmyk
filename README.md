@@ -41,6 +41,16 @@ longer think about.
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koopmannleon19977-cmyk&theme=github_dark" alt="Contribution profile" />
 </p>
 
+## Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koopmannleon19977-cmyk/koopmannleon19977-cmyk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koopmannleon19977-cmyk/koopmannleon19977-cmyk/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/koopmannleon19977-cmyk/koopmannleon19977-cmyk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## Stack
 
 <p align="center">
@@ -102,6 +112,7 @@ This repository is my profile README — and my sandbox. Every section arrived t
 request:
 
 - `README.md` — the profile you are reading
+- `.github/workflows/` — the automations that keep the visuals up to date
 - everything else — lives in private repos until it survives a month of real use
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer)
