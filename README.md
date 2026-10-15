@@ -75,3 +75,10 @@ longer think about.
 3. **Boring beats clever** — smallest thing that works, then harden it
 4. **Ship early, prune later** — whatever survives a month gets maintained properly
 
+## Live numbers
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/koopmannleon19977-cmyk?style=for-the-badge&color=2c5364&labelColor=0f2027&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=koopmannleon19977-cmyk&label=PROFILE+VIEWS&color=2c5364&style=for-the-badge" alt="Profile views" />
+</p>
+
