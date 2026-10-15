@@ -47,3 +47,12 @@ longer think about.
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,git,github,vscode,linux,bash" alt="Python, JavaScript, TypeScript, Git, GitHub, VS Code, Linux, Bash" /></a>
 </p>
 
+## Toolbox
+
+| Area | What I actually run |
+| --- | --- |
+| **Languages** | Python, JavaScript / TypeScript, Bash |
+| **Daily drivers** | Git, GitHub CLI (`gh`), VS Code, Linux |
+| **Automation** | agent tooling, scripted browser / desktop control, scheduled workflows |
+| **Exploring** | agent frameworks, LLM tooling, workflow design |
+
