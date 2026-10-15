@@ -104,3 +104,4 @@ request:
 - `README.md` — the profile you are reading
 - everything else — lives in private repos until it survives a month of real use
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer)
