@@ -41,3 +41,9 @@ longer think about.
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koopmannleon19977-cmyk&theme=github_dark" alt="Contribution profile" />
 </p>
 
+## Stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,git,github,vscode,linux,bash" alt="Python, JavaScript, TypeScript, Git, GitHub, VS Code, Linux, Bash" /></a>
+</p>
+
