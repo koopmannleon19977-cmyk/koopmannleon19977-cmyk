@@ -68,3 +68,10 @@ longer think about.
 - Automate everything I do twice
 - Contribute to open source I actually use
 
+## How I work
+
+1. **Break it to understand it** — reverse-engineering beats documentation
+2. **Automate the second time** — if I do it twice, it becomes a script
+3. **Boring beats clever** — smallest thing that works, then harden it
+4. **Ship early, prune later** — whatever survives a month gets maintained properly
+
