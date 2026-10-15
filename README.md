@@ -14,3 +14,10 @@ longer think about.
 - **Exploring** — agent frameworks, desktop / browser automation, OSS ecosystems
 - **Open to** — collaborations on AI tooling and open-source experiments
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-2c5364?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Automation-2c5364?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Dev_Tooling-2c5364?style=for-the-badge" alt="Dev Tooling" />
+  <img src="https://img.shields.io/badge/Open_Source-2c5364?style=for-the-badge" alt="Open Source" />
+</p>
+
