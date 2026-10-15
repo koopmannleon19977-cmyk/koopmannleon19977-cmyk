@@ -89,3 +89,10 @@ longer think about.
   <a href="https://github.com/koopmannleon19977-cmyk"><img src="https://img.shields.io/badge/GitHub-koopmannleon19977--cmyk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+## Ask me about
+
+- Wiring up AI agents that survive contact with real tasks
+- Automating desktop and browser workflows
+- CLI tooling and developer workflows
+- Why your automation breaks at 3 a.m. — and how to notice before it does
+
