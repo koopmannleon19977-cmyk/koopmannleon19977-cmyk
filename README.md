@@ -35,3 +35,9 @@ longer think about.
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koopmannleon19977-cmyk&theme=github_dark" alt="Most committed language" />
 </p>
 
+## Activity
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koopmannleon19977-cmyk&theme=github_dark" alt="Contribution profile" />
+</p>
+
