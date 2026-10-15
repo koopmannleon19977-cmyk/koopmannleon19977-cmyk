@@ -82,3 +82,10 @@ longer think about.
   <img src="https://komarev.com/ghpvc/?username=koopmannleon19977-cmyk&label=PROFILE+VIEWS&color=2c5364&style=for-the-badge" alt="Profile views" />
 </p>
 
+## Connect
+
+<p align="center">
+  <a href="https://x.com/0x0racle_"><img src="https://img.shields.io/badge/X-%400x0racle_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @0x0racle_" /></a>
+  <a href="https://github.com/koopmannleon19977-cmyk"><img src="https://img.shields.io/badge/GitHub-koopmannleon19977--cmyk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
