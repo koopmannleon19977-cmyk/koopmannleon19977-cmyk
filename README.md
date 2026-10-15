@@ -89,7 +89,8 @@ longer think about.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/koopmannleon19977-cmyk?style=for-the-badge&color=2c5364&labelColor=0f2027&label=Followers" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=koopmannleon19977-cmyk&label=PROFILE+VIEWS&color=2c5364&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkoopmannleon19977-cmyk&query=%24.public_repos&label=Public%20repos&color=2c5364&labelColor=0f2027&style=for-the-badge" alt="Public repos" />
+  <img src="https://img.shields.io/github/last-commit/koopmannleon19977-cmyk/koopmannleon19977-cmyk?style=for-the-badge&color=2c5364&labelColor=0f2027&label=README%20updated" alt="Last commit" />
 </p>
 
 ## Connect
