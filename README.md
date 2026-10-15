@@ -96,3 +96,11 @@ longer think about.
 - CLI tooling and developer workflows
 - Why your automation breaks at 3 a.m. — and how to notice before it does
 
+## What's in here
+
+This repository is my profile README — and my sandbox. Every section arrived through its own pull
+request:
+
+- `README.md` — the profile you are reading
+- everything else — lives in private repos until it survives a month of real use
+
