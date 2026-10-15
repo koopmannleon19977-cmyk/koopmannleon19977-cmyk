@@ -28,3 +28,10 @@ longer think about.
   <img height="170" src="https://streak-stats.demolab.com/?user=koopmannleon19977-cmyk&background=00000000&border=2c5364&stroke=67e8f9&ring=67e8f9&fire=67e8f9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=67e8f9&sideLabels=9ca3af&dates=6b7280&hide_border=true" alt="Contribution streak" />
 </p>
 
+## Languages
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koopmannleon19977-cmyk&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=67e8f9&text_color=9ca3af" alt="Most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koopmannleon19977-cmyk&theme=github_dark" alt="Most committed language" />
+</p>
+
