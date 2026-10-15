@@ -56,3 +56,9 @@ longer think about.
 | **Automation** | agent tooling, scripted browser / desktop control, scheduled workflows |
 | **Exploring** | agent frameworks, LLM tooling, workflow design |
 
+## Projects
+
+- **WUCHT** — offline-first strength training app built around a local-first data model *(private, work in progress)*
+- **Automation playbooks** — small, boring scripts that delete repetitive work; most stay private until they survive a month of real use
+- **This profile README** — built the way I build everything else: one pull request at a time
+
