@@ -21,3 +21,10 @@ longer think about.
   <img src="https://img.shields.io/badge/Open_Source-2c5364?style=for-the-badge" alt="Open Source" />
 </p>
 
+## Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=koopmannleon19977-cmyk&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&title_color=67e8f9&icon_color=67e8f9&text_color=9ca3af" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=koopmannleon19977-cmyk&background=00000000&border=2c5364&stroke=67e8f9&ring=67e8f9&fire=67e8f9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=67e8f9&sideLabels=9ca3af&dates=6b7280&hide_border=true" alt="Contribution streak" />
+</p>
+
