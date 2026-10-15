@@ -62,3 +62,9 @@ longer think about.
 - **Automation playbooks** — small, boring scripts that delete repetitive work; most stay private until they survive a month of real use
 - **This profile README** — built the way I build everything else: one pull request at a time
 
+## Now
+
+- Ship AI-agent experiments in public
+- Automate everything I do twice
+- Contribute to open source I actually use
+
