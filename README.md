@@ -4,6 +4,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&width=520&height=45&center=true&vCenter=true&lines=I+break+things+to+understand+them;then+I+rebuild+them+better.;Always+experimenting.+Always+shipping." alt="I break things to understand them, then rebuild them better." />
 </div>
 
+## Currently building
+
+<table>
+<tr><td>
+
+### 🃏 pokerbot
+
+A poker bot that plays by **looking at the screen**: pixel vision, real-time CFR+ river solving,
+zero API, zero hand histories. Benchmarked against Slumbot with AIVAT variance reduction — and
+published while it still loses, because the honest curve is the interesting part.
+
+`Python` · `OpenCV` · `CFR+` · `AIVAT`
+
+**[Read the code →](https://github.com/koopmannleon19977-cmyk/pokerbot)**
+
+</td></tr>
+</table>
+
 ## About
 
 I build things that keep running after I stop watching them: **AI agents**, **automation** and
@@ -68,6 +86,7 @@ longer think about.
 
 ## Projects
 
+- **pokerbot** — [public](https://github.com/koopmannleon19977-cmyk/pokerbot) · screen reading, CFR+ river solving, AIVAT-measured benchmarks; the project currently on the front page
 - **WUCHT** — offline-first strength training app built around a local-first data model *(private, work in progress)*
 - **Automation playbooks** — small, boring scripts that delete repetitive work; most stay private until they survive a month of real use
 - **This profile README** — built the way I build everything else: one pull request at a time
